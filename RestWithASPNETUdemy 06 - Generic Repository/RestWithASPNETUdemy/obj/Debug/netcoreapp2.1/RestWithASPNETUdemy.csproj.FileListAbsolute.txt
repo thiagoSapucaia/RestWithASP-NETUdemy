@@ -1,0 +1,69 @@
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.deps.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorTargetAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 02 - Using Diffents Verbs\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csprojAssemblyReference.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.deps.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csprojAssemblyReference.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorTargetAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 03 - Connecting to Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.deps.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csprojAssemblyReference.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorTargetAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 04 - Versioning Endpoints\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.deps.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorTargetAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 05 - Versioning Database\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.deps.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csprojAssemblyReference.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfo.cs
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorTargetAssemblyInfo.cache
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+E:\Desenvolvimento\Fontes\dotNet Core\RestWithASP-NETUdemy\RestWithASPNETUdemy 06 - Generic Repository\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
